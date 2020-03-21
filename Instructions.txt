@@ -1,0 +1,5 @@
+1. Open IBM watson jupyter notebbok.
+2. Create your project and set environment.
+3. Write your code.
+4. Upload the image whose text you want as an output.
+5. Execute and get the desired output.
